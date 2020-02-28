@@ -21,7 +21,7 @@ class Main extends Component {
         const HomePage = () => {
             return(
                 <Home />
-                <Media />
+               // <Media />
             )
         };
         return (
